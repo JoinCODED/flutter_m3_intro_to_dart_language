@@ -59,7 +59,8 @@ var studentGradeInSemester2;
 
 This convention is called **camelCase**. 
 
-![img](https://lh5.googleusercontent.com/1A_BKQ0T2n4F6-nZ2RIOzzL7CGCFwY6tShelx1nHX6BxxeiSt5iETMgP1baVxb5NeA69HvEOcH4_BS8dnzE9oEkxbyo7BgRzWUV48Y2UPVptAuhhn_bwuZ7q--Dz3Z_YC3xhSAFI)
+<img src="https://lh5.googleusercontent.com/1A_BKQ0T2n4F6-nZ2RIOzzL7CGCFwY6tShelx1nHX6BxxeiSt5iETMgP1baVxb5NeA69HvEOcH4_BS8dnzE9oEkxbyo7BgRzWUV48Y2UPVptAuhhn_bwuZ7q--Dz3Z_YC3xhSAFI" alt="img" width="300" />
+
 
 You keep the first letter of the first word small, and capitalize the first letter of every second word.
 
@@ -79,7 +80,7 @@ You keep the first letter of the first word small, and capitalize the first lett
 
 3. All symbols are not allowed `!@#$%^&*()-“"<>{}/?`~+` except for 1 symbol.
 
-![img](https://lh4.googleusercontent.com/Uo6ChSBFusHlj89S_EbzhU1dcMQiD2feohEXVtyEbijaddVkPgO4QieKPHmPZDUvgPK5eQjulAxX71Wj2NkyIDaHUy5t7U6NRcLCLvmUtQsyhAY0pgc8lO_8O34P5TBAIbf1jRO1)
+<img src="https://lh4.googleusercontent.com/Uo6ChSBFusHlj89S_EbzhU1dcMQiD2feohEXVtyEbijaddVkPgO4QieKPHmPZDUvgPK5eQjulAxX71Wj2NkyIDaHUy5t7U6NRcLCLvmUtQsyhAY0pgc8lO_8O34P5TBAIbf1jRO1" alt="img" width="300" />
 
 
 
