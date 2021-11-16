@@ -17,13 +17,13 @@ Note that in this example, we're taking a value from kdToCurrency method. What w
 
 First of all, think value type are you retuning? the currency is double. Then the return type we need from our function is double. Then change `void` to `double`. 
 
-![img](https://lh3.googleusercontent.com/G4mmzrDLyA2otBMWHehS84Obw26yAIzZdT8EI67rSPfF4x6jyK5E8gNccpoduVqt38_6dUFdNzBMhnzPZUf2NMH7wlwDuKH63FThZOG5kqjfnSxCb-9Oxa1Szg7hSouZZDtj5498)
+<img src="https://lh3.googleusercontent.com/G4mmzrDLyA2otBMWHehS84Obw26yAIzZdT8EI67rSPfF4x6jyK5E8gNccpoduVqt38_6dUFdNzBMhnzPZUf2NMH7wlwDuKH63FThZOG5kqjfnSxCb-9Oxa1Szg7hSouZZDtj5498" alt="img" width="850" />
 
 
 
 Once we replaced void with double, that means that the function is a **return type function**. a return type function should always return something using the keyword return. So now instead of printing inside the function, we will replace the printing statements into return. So we return the value instead and give it to whoever calls this function. 
 
-![img](https://lh4.googleusercontent.com/rC0YZA2ImN86FOi5RTaqRhTE_JRmZvBB2Yavlinmv1atyW8gZQi5YgZMPiWhjN7Q2JOmNaXpW5bWUgdnLHQt-S0oUcQIvS51PV-UCZl2WDY9eI5TCw4a9t9cwx6FqvCRJPnEHvZ9)
+<img src="https://lh4.googleusercontent.com/rC0YZA2ImN86FOi5RTaqRhTE_JRmZvBB2Yavlinmv1atyW8gZQi5YgZMPiWhjN7Q2JOmNaXpW5bWUgdnLHQt-S0oUcQIvS51PV-UCZl2WDY9eI5TCw4a9t9cwx6FqvCRJPnEHvZ9" alt="img" width="850" />
 
 
 
@@ -63,7 +63,8 @@ Violaa! 🎉 no errors!
 
 Now, how to use it? 
 
-![img](https://lh4.googleusercontent.com/piaDbTN9hcBkcbbGlGSLYDxjAM_BZpWwly1zTwqXp5R8bg__zN1DznX5-Sk3_7obPZzkQEncpCIobIMXQIFADkZSHA923DKJSFg9M63VE8NbePKVMAfz9glfg97YJ1RqbfPkw1Jf)
+<img src="https://lh4.googleusercontent.com/piaDbTN9hcBkcbbGlGSLYDxjAM_BZpWwly1zTwqXp5R8bg__zN1DznX5-Sk3_7obPZzkQEncpCIobIMXQIFADkZSHA923DKJSFg9M63VE8NbePKVMAfz9glfg97YJ1RqbfPkw1Jf" alt="img" width="450" />
+
 
 Always remember, a return type function gives a value after it gets excited. This value is determined by the return statement. if the function returns double, then the after the running the function, the main will get double as a value, and it can store it in a variable.
 
