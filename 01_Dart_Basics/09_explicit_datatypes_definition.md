@@ -31,8 +31,8 @@ In this way, we defined our variables explicitly. There is no difference between
 
 
 > Note that all types are lower cased, except for `String`. It's start with a capital letter for some reason. Google it if you want to know.
->
-> ![img](https://lh4.googleusercontent.com/XIqDN7nNtppvQogpbebwVqhIvRBM4Pt1xPunMD8-ZVOYBdia4MnEez0mqG6yVNSr57M835yy42r3MZ5w58vUhcd8YRWpvzhewm-YzmsteeXJbtd5ni8VpvCeETVgZMyVNxbhLqSQ)
+> <img src="https://lh4.googleusercontent.com/XIqDN7nNtppvQogpbebwVqhIvRBM4Pt1xPunMD8-ZVOYBdia4MnEez0mqG6yVNSr57M835yy42r3MZ5w58vUhcd8YRWpvzhewm-YzmsteeXJbtd5ni8VpvCeETVgZMyVNxbhLqSQ" alt="img" width="300" />
+
 
 
 
