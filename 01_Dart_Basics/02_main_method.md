@@ -20,6 +20,7 @@ Once you open the dartpad, you're gonna see this code, now we're going to unders
 
 4. You can't run a dart application without a main method that is called literally `main`. 
 
-Now to start coding, we're going to write our codes inside the main method. after the first curly-bracket, and before the last one. As shown in the following figure. </br>
+Now to start coding, we're going to write our codes inside the main method. after the first curly-bracket, and before the last one. As shown in the following figure.   
+
 ![screenshot](https://lh6.googleusercontent.com/tFXAm9nfToV3KAqf3GZP2bi-PUErzj0sUUxySflyep8SAE8cNrf3Eh87t6ySpeJaemd4HxFDPXlrdV0zWDDwclKMMvzqGXxlPIB7jNbkPH1j9hvAZcioHkpW6YNGMZs5VtOUcFYJ)
 
