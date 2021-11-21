@@ -3,7 +3,7 @@
 
 
 In the pizza example, let's try changing the pizza value to **"No Pizza"** instead of 0. 
-<img src="https://lh6.googleusercontent.com/_qOw03RaY5jKrYc-r1LpRjXH-K3bS0acIk2EQdF6rXfWK3zVQI98YF62i6BqZ5sYIElGouryCZpiNN1Uz-rlc9gjFv8p-OA0UXanf1MsPIvFo_mlI8htoXd87X_dDeN9HP3gb7vT" alt="img" width="800" />
+![screenshot](https://lh6.googleusercontent.com/_qOw03RaY5jKrYc-r1LpRjXH-K3bS0acIk2EQdF6rXfWK3zVQI98YF62i6BqZ5sYIElGouryCZpiNN1Uz-rlc9gjFv8p-OA0UXanf1MsPIvFo_mlI8htoXd87X_dDeN9HP3gb7vT)
 
 
 
@@ -13,7 +13,7 @@ What happened! Look at the red line under "No Pizza". It's indicating that the e
 > Error: A value of type 'String' can't be assigned to a variable of type '**int**'.What is String? What is **int**? What's going on! 😢
 
 If you click on the word `pizza`, and looked at the documentation that dartpad.dev offers at the bottom right corner. You will see `int pizza`. And `int` is a short of `integer`, which is the type of this variable. 
-<img src="https://lh4.googleusercontent.com/Hqmx5IHXYguQiJFEUiYjpLpH9r5O4lHadrMLcIiof4Fi7OgkkykvoOxhfRd9CiQZUvGAUUEzA8LAb82Z9OdIwJsNj2x7TcYQVzjF3Iv4bM4WMS9Km2Csug3BNP-FGF-tQ1l1fCzT" alt="img" width="800" />
+![screenshot](https://lh4.googleusercontent.com/Hqmx5IHXYguQiJFEUiYjpLpH9r5O4lHadrMLcIiof4Fi7OgkkykvoOxhfRd9CiQZUvGAUUEzA8LAb82Z9OdIwJsNj2x7TcYQVzjF3Iv4bM4WMS9Km2Csug3BNP-FGF-tQ1l1fCzT)
 
 
 
@@ -34,13 +34,13 @@ For instant, our variable pizza was assigned to a value of 6. 6 is an integer. T
 
 
 ### The 4 most common data types
-<img src="https://user-images.githubusercontent.com/24327781/140642208-95bb2719-7aa6-4f8f-9dfc-c771882a1232.png" alt="img" width="800" />
+![screenshot](https://user-images.githubusercontent.com/24327781/140642208-95bb2719-7aa6-4f8f-9dfc-c771882a1232.png)
 
 
 
 ### Why there are data types?
 
-<img src="https://lh3.googleusercontent.com/YJGzlD-LMAPVQ9EhNGfekNs95O4SX4zieS3yJq0MfV_3qBbZtg8-fvojEJJCATU5RzhPP1VNIVnUPkiD9Ew09PmMWKeRzTTpgOaI72fxSJJPlASTlwnBYqOo0xYZ9wo_GBsfu2VG" alt="img" width="400" />
+![screenshot](https://lh3.googleusercontent.com/YJGzlD-LMAPVQ9EhNGfekNs95O4SX4zieS3yJq0MfV_3qBbZtg8-fvojEJJCATU5RzhPP1VNIVnUPkiD9Ew09PmMWKeRzTTpgOaI72fxSJJPlASTlwnBYqOo0xYZ9wo_GBsfu2VG)
 
 You know what is this right? It's a closet! 👕
 

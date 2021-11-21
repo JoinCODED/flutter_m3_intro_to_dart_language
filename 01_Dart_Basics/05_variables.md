@@ -18,7 +18,7 @@ void main() {
 That's it. Now if we run the app. Nothing happens. Let's try to use the command `print`, in order to print it to the Console window. 
 
 > PS: We're not going to print a physical paper 🖨️. 
-<img src="https://lh6.googleusercontent.com/QTJAKv9ev2n3mz7s4nbrlAm-PDSq9zYYtwTB53c1Po5urwXaiRTdnhgjm6kUkNSF_M-7mZb9M3zsyJ1qa_blVQTBhEVM42LKqoy7WRMcMgl-RRQKsBwJm-hKYIRJDjIK2wSNzJbz" alt="img" width="850" />
+![screenshot](https://lh6.googleusercontent.com/QTJAKv9ev2n3mz7s4nbrlAm-PDSq9zYYtwTB53c1Po5urwXaiRTdnhgjm6kUkNSF_M-7mZb9M3zsyJ1qa_blVQTBhEVM42LKqoy7WRMcMgl-RRQKsBwJm-hKYIRJDjIK2wSNzJbz)
 
 
 
@@ -31,7 +31,7 @@ Now a very hungry guy came to the fridge and took all the pizza 😋.
  3. Print the new **pizza** value
 
     
-<img src="https://lh5.googleusercontent.com/FwGhCvJbGC3tVwXqwG8UbyZDS_PWBItVmzEkILNqnOcUPAVei9vJqAmlauR2scXB7dnwXFSTPt3I7d_u3ejLOdtuxPu3E6Jpux4qQLA69-tNFQPQY1M2N9kzs3nef3R0eUgKoTQq" alt="img" width="850" />
+![screenshot](https://lh5.googleusercontent.com/FwGhCvJbGC3tVwXqwG8UbyZDS_PWBItVmzEkILNqnOcUPAVei9vJqAmlauR2scXB7dnwXFSTPt3I7d_u3ejLOdtuxPu3E6Jpux4qQLA69-tNFQPQY1M2N9kzs3nef3R0eUgKoTQq)
 
 
 
@@ -47,7 +47,7 @@ pizza = 0;
 
 You might be wondering now… how pizza can equal to 6, and equal to 0!
 
-<img src="https://lh4.googleusercontent.com/JdKV0BO8MuIc--WuNEfvsZPWvG9aebL8Rw2ARY-S8X4iZndlaRIW8WTrmYX5GXl_MtAcdaKXEESjSL1KSFVy24Ge3y86EsDubUOCwqJPFbWcBlGKddeAlrMQ_DfJhir5SwPE0Tcj" alt="img"  width="300" />
+![screenshot](https://lh4.googleusercontent.com/JdKV0BO8MuIc--WuNEfvsZPWvG9aebL8Rw2ARY-S8X4iZndlaRIW8WTrmYX5GXl_MtAcdaKXEESjSL1KSFVy24Ge3y86EsDubUOCwqJPFbWcBlGKddeAlrMQ_DfJhir5SwPE0Tcj)
 
 
 

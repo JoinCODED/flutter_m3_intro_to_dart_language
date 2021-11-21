@@ -2,7 +2,7 @@
 
 You all know math. Let's get this done quickly by looking at the following example that clears out what kind of mathematical operations you can perform in dart language. 
 
-<img src="https://lh4.googleusercontent.com/GHvSnU8qeGThz8lAtBfqurJ6I8Hc1dbzfL3f4nVVsSuglhAwcs2BFIc-MjdrFmqfAHMHwnxHdOX5R1v4teiwwtpjG2165H_YVnqYeG2gKkJ5HcFF6CZ1Qy9gWsBXrj5IwyYP1dBA" alt="img" width="800" />
+![screenshot](https://lh4.googleusercontent.com/GHvSnU8qeGThz8lAtBfqurJ6I8Hc1dbzfL3f4nVVsSuglhAwcs2BFIc-MjdrFmqfAHMHwnxHdOX5R1v4teiwwtpjG2165H_YVnqYeG2gKkJ5HcFF6CZ1Qy9gWsBXrj5IwyYP1dBA)
 
 
 
@@ -15,7 +15,7 @@ The only new operation here is [remainder %](https://en.wikipedia.org/wiki/Remai
 
 You can combine operations together 
 
-<img src="https://lh6.googleusercontent.com/J7Vxt3ogiS6yQHiUNMtAN0y0aQqOxTME192T4Pxc7WN1__RtchDXzMiaqhi0pHw1HMQmGEFYO3xmztA9EA_mEYjTeLUjJrU68gs18raPI7eIFl9vgAJSgVa5t7MwD8_5Mdjh6OPr" alt="img" width="800" />
+![screenshot](https://lh6.googleusercontent.com/J7Vxt3ogiS6yQHiUNMtAN0y0aQqOxTME192T4Pxc7WN1__RtchDXzMiaqhi0pHw1HMQmGEFYO3xmztA9EA_mEYjTeLUjJrU68gs18raPI7eIFl9vgAJSgVa5t7MwD8_5Mdjh6OPr)
 
 
 
@@ -32,7 +32,7 @@ This result is wrong. Because x + y should calculated first, then we divide that
 
 There is an important operation, which is incrementing. Try to think about it before you check the code. 
 
-<img src="https://lh5.googleusercontent.com/nn2Rrbp2jg7tWNERXYuaQKvm51xH64JEdJJz0_fkC7D_mOTk432-Sc0BOEdm1Vw5zwKailX3khceFyxg56LuO_s2rf4Kiuv3vLvaN__63Q3zTOqGCcLVb-Snm9bCI6x7lecOdZe4" alt="img" width="800" />
+![screenshot](https://lh5.googleusercontent.com/nn2Rrbp2jg7tWNERXYuaQKvm51xH64JEdJJz0_fkC7D_mOTk432-Sc0BOEdm1Vw5zwKailX3khceFyxg56LuO_s2rf4Kiuv3vLvaN__63Q3zTOqGCcLVb-Snm9bCI6x7lecOdZe4)
 
 
 
@@ -45,7 +45,7 @@ So how do we increment?
 
 Basically, we add 1 to the previous value, and we assign the variable that value. as follows
 
-<img src="https://lh3.googleusercontent.com/4jIfAMsp27OU1d7qSPPhnV11zk0pKDNUdYNJpOUT9zd4JXgzMylNrdaIaU7Y31-4bNO4f2BsQoeyNlls5ADw2xRptTffASIYzVhNC9B5i-0DGZCRgm9S5mEv9qOIgi_mZkQQ80Ku" alt="img" width="800" />
+![screenshot](https://lh3.googleusercontent.com/4jIfAMsp27OU1d7qSPPhnV11zk0pKDNUdYNJpOUT9zd4JXgzMylNrdaIaU7Y31-4bNO4f2BsQoeyNlls5ADw2xRptTffASIYzVhNC9B5i-0DGZCRgm9S5mEv9qOIgi_mZkQQ80Ku)
 
 
 
@@ -63,7 +63,7 @@ How could a variable equals to itself + 1?
 
 That's because in programming the `=` sign is not equal, it's assign a new value. So `counter + 1` is going to be calculated first, then the result is going to be assigned to counter again. So counter will get the new value of counter + 1. 
 
-**<img src="https://lh5.googleusercontent.com/x9CAtxDmcbRsBruOX4l1p_uWqL86CBSEDpd-JC2g4OK0rBVX--9fIp196ZjBrMzrDQlOi1xNAyIgUgKVtWWaTiJuHfQe0-Q5MxSPamUtZy0dHqh8-jf_l73D-ybftAJPuJ83AhDV" alt="img" width="300" />**
+**![screenshot](https://lh5.googleusercontent.com/x9CAtxDmcbRsBruOX4l1p_uWqL86CBSEDpd-JC2g4OK0rBVX--9fIp196ZjBrMzrDQlOi1xNAyIgUgKVtWWaTiJuHfQe0-Q5MxSPamUtZy0dHqh8-jf_l73D-ybftAJPuJ83AhDV)**
 
 
 

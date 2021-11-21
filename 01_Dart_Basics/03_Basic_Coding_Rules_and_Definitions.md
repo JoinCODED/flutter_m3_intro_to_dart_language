@@ -41,7 +41,7 @@ Before we get started. We have to agree on few rules.
 
 
 And finally, throughout this journey, we're going to tackle the main points that programming code do. Which is explained in this diagram.
-<img src="https://lh6.googleusercontent.com/whTsAnCjKOPHUQs-7PDlJEtmAPXYP-teVsywRCrP0KxDw4xAikNoOWY2JmvJaQfxTUYtqZBqHx8pXocpzOLZgR6gmj8YQNu9Y4tB7VAjF54avD3acXJEAoOG6n4Q4WSWWyir9cwH" alt="img" width="850" />
+![screenshot](https://lh6.googleusercontent.com/whTsAnCjKOPHUQs-7PDlJEtmAPXYP-teVsywRCrP0KxDw4xAikNoOWY2JmvJaQfxTUYtqZBqHx8pXocpzOLZgR6gmj8YQNu9Y4tB7VAjF54avD3acXJEAoOG6n4Q4WSWWyir9cwH)
 
 1. We store values using the concept of variables and constants (`var`, `final`, `int`, `double`, …)
 1. We store actions using the concept of methods / functions (`void`,...) 

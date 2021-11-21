@@ -6,7 +6,7 @@ Sometimes you want to explain something while you write the code, like adding a 
 
 Sometimes, us, as instructors, we explain the code using comments. Comments are texts added to your code that doesn't affect the code. 
 
-<img src="https://lh3.googleusercontent.com/OIIzHC7qVDfynBeA3yIDJ2s4pkF2sAFV_-3t_KX-xuN8BAeAZZNCuNjjSR99Z40ywo16KLDgHfyvSTNOLJD93OtDdKz6InD5um-Po4sHA5Kob1RrP8qFYNARCxAvarqfGoIl1kh9" alt="img" width="800" />
+![screenshot](https://lh3.googleusercontent.com/OIIzHC7qVDfynBeA3yIDJ2s4pkF2sAFV_-3t_KX-xuN8BAeAZZNCuNjjSR99Z40ywo16KLDgHfyvSTNOLJD93OtDdKz6InD5um-Po4sHA5Kob1RrP8qFYNARCxAvarqfGoIl1kh9)
 
 
 
@@ -40,7 +40,7 @@ It starts with a slash star, then ends with a star slash
 
 You can use comments to disable a line of code. 
 
-<img src="https://lh6.googleusercontent.com/-Npue78YXvZmwS7sBl4QIpRvxuvIkq_39baFbwhuGklGGou-lfHystgee1tLp2Ubn2udbBprTKs271SUolghA0OeDsr3bxgPvJMr-eFuYjd4-XSWgDmHTtXTHaU83tzyqz7HgCDn" alt="img" width="800" />
+![screenshot](https://lh6.googleusercontent.com/-Npue78YXvZmwS7sBl4QIpRvxuvIkq_39baFbwhuGklGGou-lfHystgee1tLp2Ubn2udbBprTKs271SUolghA0OeDsr3bxgPvJMr-eFuYjd4-XSWgDmHTtXTHaU83tzyqz7HgCDn)
 
 
 `a = 4` will not be executed because it's commented out. 
@@ -51,7 +51,7 @@ You can use comments to disable a line of code.
 
 Btw, don't overuse comments by explaining every single thing. For example:-
 
-<img src="https://lh6.googleusercontent.com/MY-rMwJ2MSETVo5rvubwY580nHAkdYYMGJvG7NYbz9E_00RaUXYa8GHYe0Uzd9qI37bLJL5RyGayWnehRduYzalDevtX6tbjoKDjUcldUQeg9pjlSUQ7FtzpixY2dMgIgE1svPvf" alt="img" width="400" />
+![screenshot](https://lh6.googleusercontent.com/MY-rMwJ2MSETVo5rvubwY580nHAkdYYMGJvG7NYbz9E_00RaUXYa8GHYe0Uzd9qI37bLJL5RyGayWnehRduYzalDevtX6tbjoKDjUcldUQeg9pjlSUQ7FtzpixY2dMgIgE1svPvf)
 
 
 

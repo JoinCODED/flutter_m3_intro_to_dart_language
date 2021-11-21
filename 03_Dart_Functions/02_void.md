@@ -2,7 +2,7 @@
 
 If you go to dart pad and read the first word. It's void main. That's actually a function. `main` is a function that gets called when the app starts. It's the starting point. Inside the function, you can code everything. And we can create smaller functions and we call them inside main. Let's create our first function that prints out our name.
 
-<img src="https://lh4.googleusercontent.com/70ME40qAvILLRW1vhHou9FPXOrhohDjyNiGqGouxC1qpgOz2O2rVSCqfUL2oH8nS9JDWzmjcufl9ozHGGeJYskSYvtWdkphxQLeUhnRtXOCN0EIM88S0Kr4Y85HflCen4UgZAChp" alt="img" width="800" />
+![screenshot](https://lh4.googleusercontent.com/70ME40qAvILLRW1vhHou9FPXOrhohDjyNiGqGouxC1qpgOz2O2rVSCqfUL2oH8nS9JDWzmjcufl9ozHGGeJYskSYvtWdkphxQLeUhnRtXOCN0EIM88S0Kr4Y85HflCen4UgZAChp)
 
 
 Now we have done 2 steps 
