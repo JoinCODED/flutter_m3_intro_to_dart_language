@@ -1,4 +1,3 @@
-# **if else statements**
 
 Have you ever wondered how does the mobile screen work? How does it decide to let you in if you type the password correctly, or it blocks if you don't?Let's figure out!
 

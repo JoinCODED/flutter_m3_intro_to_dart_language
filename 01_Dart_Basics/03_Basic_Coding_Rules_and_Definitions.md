@@ -1,4 +1,3 @@
-# **Basic Coding Rules and Definitions**
 
 
 

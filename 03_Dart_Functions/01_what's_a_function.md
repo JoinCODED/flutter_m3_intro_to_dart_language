@@ -1,4 +1,3 @@
-# **what's a function**
 
 Remembr when we mentioned that the computer stores values, and actions? Well, here we are, we knew how to let the computer store values using variables. But what about actions? When you teach a kid how to brush his teeth, you give them steps, and they have to memorize it.
 

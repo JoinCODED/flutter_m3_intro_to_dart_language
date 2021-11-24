@@ -1,4 +1,3 @@
-# **Boolean expressions**
 
 If you have tried to write the if statement as follows and it didn't work for you.
 

@@ -1,4 +1,3 @@
-# Variables
 
 Let's starting writing our first dart code. We want to make an app that keeps track of number of pizza slices in our fridge 🍕. 
 

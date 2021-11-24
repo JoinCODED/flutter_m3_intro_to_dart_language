@@ -1,4 +1,3 @@
-# **return type functions**
 
 So far, our functions are isolated. You call a function from main, and it prints something. There is nothing main is getting out of the function. For example, I need when I call the currency converter function, to give me something back like this. 
 

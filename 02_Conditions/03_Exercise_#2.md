@@ -1,4 +1,3 @@
-# Exercise ( #2 )
 
 Try to guess what will be printed, and what not
 

@@ -1,4 +1,3 @@
-# **Comments**
 
 Sometimes you want to explain something while you write the code, like adding a sticky note or something.
 

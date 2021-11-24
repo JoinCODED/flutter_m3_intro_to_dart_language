@@ -1,4 +1,3 @@
-# **Excercise ( #4)**
 
 Wrtie a function called `convertKdTo` that takes 2 parameters. 
 

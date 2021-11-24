@@ -1,4 +1,3 @@
-# **Understanding variables**
 
 What's the longest word in the world? 🤔
 iiiiit's, `Supercalifragilisticexpialidocious` 😲   

@@ -1,4 +1,3 @@
-# main method
 
 Once you open the dartpad, you're gonna see this code, now we're going to understand piece by piece. The first thing we'rer going to do understand is **main**. 
 

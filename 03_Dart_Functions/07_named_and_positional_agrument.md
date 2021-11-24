@@ -1,4 +1,3 @@
-# Named and Positional Argument
 
 
 

@@ -1,4 +1,3 @@
-# Strings
 
 Strings are a special data type that can include texts. We're going to tackle some main points in strings. 
 

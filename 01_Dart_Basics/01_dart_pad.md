@@ -1,4 +1,3 @@
-# Dart pad
 
 Now we've seen how to create mobile applications with flutter. There is a lot of stuff we can't do yet. For example, we can't take text input, or have any kind of interaction with the application. Because we need to learn some basics with the dart progarmmging language first, then we can come back to learn how we create interactive apps with flutter. 
 

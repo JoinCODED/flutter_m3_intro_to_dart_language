@@ -1,4 +1,3 @@
-# **Combining conditions**
 
 What if I need to compare a value if it's between 2 values. 
 

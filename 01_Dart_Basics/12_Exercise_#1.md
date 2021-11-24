@@ -1,4 +1,3 @@
-# Exercise ( #1 )
 
 Try to guess what's the result for the following:
 

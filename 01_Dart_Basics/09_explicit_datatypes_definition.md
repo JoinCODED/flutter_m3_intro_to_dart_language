@@ -1,4 +1,3 @@
-# **Explicit datatypes definition**
 
 In the previous example,
 

@@ -1,4 +1,3 @@
-# **Arithmatics** 
 
 You all know math. Let's get this done quickly by looking at the following example that clears out what kind of mathematical operations you can perform in dart language. 
 

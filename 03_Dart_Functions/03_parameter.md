@@ -1,4 +1,3 @@
-# Parameter
 
 create a function called convetDollarsToEuros that prints how much 1 dollar in euro
 
