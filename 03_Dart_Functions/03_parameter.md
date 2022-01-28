@@ -1,9 +1,8 @@
-
-create a function called convetDollarsToEuros that prints how much 1 dollar in euro
+Create a function called `convetDollarsToEuros` that prints how much 1 dollar in euro
 
 That should be easy,[ let's google how much 1 dollar in euros ](https://www.google.com/search?q=%241+to+euro)
 
-Based on your answerr create this function
+Based on your answer create this function
 
 ```dart
 convertDollarsToEuros(){
@@ -13,9 +12,7 @@ convertDollarsToEuros(){
 }
 ```
 
-
-
-Now let's call this function in main 
+Now let's call this function in main
 
 ```dart
 void main(){
@@ -23,11 +20,9 @@ void main(){
 }
 ```
 
+Now, let's convert 4 dollars to euros.
 
-
-Now, let's convert 4 dollars to euros. 
-
-Do you think we need a new function to calculate 4 dollars in euros? 
+Do you think we need a new function to calculate 4 dollars in euros?
 
 ```dart
 convert4DollarsToEuros(){
@@ -36,9 +31,7 @@ var euros = 0.82 * 4;
 }
 ```
 
-
-
-Notice that both functions do the exact same job, with 1 value difference. Which is number of dollars. What if we could create 1 function that can take a number, and calculates based on that number. So every time, when we call `convertDollarsToEuros` we call it this way `convertDollarsToEuros(4)` to convert $4. And `convertDollarsToEuros(8)`. That's why the parentheses are useful! They are used to pass data to functions. So how do we do that? 
+Notice that both functions do the exact same job, with 1 value difference. Which is number of dollars. What if we could create 1 function that can take a number, and calculates based on that number. So every time, when we call `convertDollarsToEuros` we call it this way `convertDollarsToEuros(4)` to convert $4. And `convertDollarsToEuros(8)`. That's why the parentheses are useful! They are used to pass data to functions. So how do we do that?
 
 ```dart
 convert4DollarsToEuros(double dollars){
@@ -47,15 +40,16 @@ convert4DollarsToEuros(double dollars){
 }
 ```
 
-Now this function can convert any amount of dollars to euros! 
+Now this function can convert any amount of dollars to euros!
 
-
+> **Note**: Make sure that the function parameter is explicitly defining the type of the variable.
 
 ## Multiple parameters
 
 We can take more than one parameter in a function by separating each parameter with a comma
 
+```dart
+function foo(double param1, int param2, String param3){
 
-
-
-
+}
+```
